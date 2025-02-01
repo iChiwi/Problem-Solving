@@ -1,2 +1,2 @@
-# Competitive Programming
+# Problem-Solving
  My solutions for problem-solving on CodeForces.
